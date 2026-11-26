@@ -3,16 +3,32 @@
 
 **Student Name:** SaiAbhijith<br>
 
-## Reflection
+## Reflection<br>
 
-Throughout this course, I developed an understanding of
-machine learning concepts and their applications in business
-and technology. The seven hands-on projects provided
-opportunities to explore supervised learning, dimensionality
-reduction, artificial neural networks, and natural language
-processing.<br>
+Throughout this Applied AI Solutions for Business and Technology course, I developed a comprehensive understanding of artificial intelligence and machine learning concepts and their practical applications in business and technology. The seven hands-on projects helped me strengthen my technical knowledge, analytical thinking, and problem-solving abilities while exploring different machine learning algorithms and methodologies.<br>
+
+### What I Learned Across All Modules<br>
+
+- **Machine Learning Review:** Developed an understanding of fundamental machine learning concepts, learning methodologies, and the overall machine learning workflow.<br>
+
+- **Classification:** Learned how classification algorithms predict categorical outcomes and how to evaluate model performance.<br>
+
+- **Support Vector Machines (SVM):** Developed an understanding of decision boundaries, margins, kernel functions, and their applications in classification problems.<br>
+
+- **Decision Trees:** Learned how tree-based models make predictions, capture decision-making patterns, and provide interpretable results.<br>
+
+- **Dimensionality Reduction:** Understood how dimensionality reduction techniques simplify complex datasets, reduce redundant features, and improve computational efficiency.<br>
+
+- **Artificial Neural Networks (ANN):** Explored neural network architectures, activation functions, model training, and their ability to learn complex nonlinear patterns.<br>
+
+- **Natural Language Processing (NLP):** Developed an understanding of text preprocessing, feature representation, and machine learning techniques for analyzing unstructured textual data.<br>
+
+Collectively, these modules strengthened my understanding of how different machine learning techniques can be selected and applied to solve analytical and business problems.<br>
+
 
 ## Skills Developed
+
+Through the completion of these hands-on projects, I developed technical, analytical, and problem-solving skills in the following areas:<br>
 
 - Python programming<br>
 - Data cleaning and preprocessing<br>
